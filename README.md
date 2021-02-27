@@ -1,5 +1,6 @@
 # PrimitiveGif
-![Logo of the project](https://raw.githubusercontent.com/Gengi-MS/PrimitiveGif/main/SampleImage/cat.gif)
+![Logo of the project](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif)
+
 > Uses the primitive library to automate creating gifs
 
 Primitive takes in a single image (.png) and recreates the image using primitive shapes. The process is random and creating multiple images is a nice effect for a gif. This script automates the process of creating 8 primitive images, and then converts them into a gif.
