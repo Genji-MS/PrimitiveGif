@@ -11,13 +11,13 @@ This script requires primitive be installed.
 (Primitive has no public class for import)
 
 ```shell
-git clone...
+git clone https://github.com/Genji-MS/PrimitiveGif.git
 go get -u github.com/fogleman/primitive
-go build && go test
+go test
 ```
 
 The test script will ensure that primitive has been installed correctly
-If the test fails, read the error carefully and re test.
+If the test fails, follow the instructions in the error message and re test
 
 To run the script, place any number of .png files in the local directory and use
 
