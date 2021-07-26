@@ -1,7 +1,7 @@
 # PrimitiveGif
-##Input:
+#### Input:
 ![input image](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.png)
-##Output:
+#### Output:
 ![output_image](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif)
 
 > Uses the primitive library to automate creating gifs
