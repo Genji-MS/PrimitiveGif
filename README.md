@@ -16,8 +16,8 @@ go get -u github.com/fogleman/primitive
 go test
 ```
 
-The test script will ensure that primitive has been installed correctly
-If the test fails, follow the instructions in the error message and re test
+The test script will ensure that primitive has been installed correctly.
+If the test fails, follow the instructions in the error message then re-test
 
 To run the script, place any number of .png files in the local directory and use
 
