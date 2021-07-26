@@ -1,5 +1,8 @@
 # PrimitiveGif
-![Logo of the project](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif)
+##Input:
+![input image](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.png)
+##Output:
+![output_image](https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif)
 
 > Uses the primitive library to automate creating gifs
 
