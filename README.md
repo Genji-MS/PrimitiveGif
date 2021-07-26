@@ -1,5 +1,5 @@
 # PrimitiveGif
-<img src="https://github.com/Genji-MS/2D-to-Stereoscopic/blob/main/Tests/3DInput/Test_90596.jpg" width="256"><img src="https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif">
+<img src="https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.png" width="256"><img src="https://github.com/Genji-MS/PrimitiveGif/blob/main/SampleImage/cat.gif">
 
 > Uses the primitive library to automate creating gifs
 
